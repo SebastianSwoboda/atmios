@@ -12,8 +12,7 @@
       Ausserdem hoffen wir, dass wir
       einigen Jugendlichen helfen
       können, die sich in einer
-      ähnli
-      chen Lage befinden
+      ähnlichen Lage befinden
       wie wir es noch vor einigen
       Jahren waren.
     </p>
