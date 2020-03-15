@@ -5,7 +5,7 @@
       <router-view />
     </div>
     <footer class="has-text-centered sitefooter has-background-primary">
-      <p class="footertext has-text-white-bis">info@atmios.ch</p>
+      <a href="mailto:info@atmios.ch" class="footertext has-text-white-bis">info@atmios.ch</a>
     </footer>
   </section>
 </template>

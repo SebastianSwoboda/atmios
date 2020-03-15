@@ -2,7 +2,8 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import About from "../views/About.vue";
-import Contact from "../views/Contact.vue";
+import Service from "../views/Service.vue";
+import Images from "../views/Images.vue";
 
 Vue.use(VueRouter);
 
@@ -15,15 +16,21 @@ const routes = [
     component: Home
   },
   {
+    path: "/service",
+    name: "service",
+    component: Service
+  },
+  {
+    path: "/images",
+    name: "images",
+    component: Images
+  },
+  {
     path: "/about",
     name: "about",
     component: About
-  },
-  {
-    path: "/contact",
-    name: "contact",
-    component: Contact
   }
+
 ];
 
 const router = new VueRouter({
