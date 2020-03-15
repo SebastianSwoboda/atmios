@@ -86,7 +86,7 @@ export default {
 }
 
 .active > a {
-  font-weight: 600 !important;
+  font-weight: bold !important;
 }
 .text {
   max-width: 700px;
